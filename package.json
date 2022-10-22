@@ -1,7 +1,7 @@
 {
   "name": "china-ex",
   "version": "0.0.2",
-  "description": "中国制霸生成器",
+  "description": "航大制霸生成器",
   "main": "html/index.html",
   "scripts": {
     "build": "node 生成字体子集.js;node 转译.js"
