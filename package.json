@@ -1,5 +1,5 @@
 {
-  "name": "china-ex",
+  "name": "CAUC",
   "version": "0.0.2",
   "description": "航大制霸生成器",
   "main": "html/index.html",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/itorr/china-ex.git"
+    "url": "git+https://github.com/itorr/CAUC.git"
   },
   "keywords": [
     "china"
@@ -16,7 +16,7 @@
   "author": "itorr",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/itorr/china-ex/issues"
+    "url": "https://github.com/itorr/CAUC/issues"
   },
   "files": [
     "html/index.html",
@@ -24,7 +24,7 @@
     "html/脚本.js",
     "html/字体.woff"
   ],
-  "homepage": "https://github.com/itorr/china-ex#readme",
+  "homepage": "https://github.com/itorr/CAUC#readme",
   "dependencies": {
     "axios": "^1.1.3",
     "html-minifier": "^4.0.0",
